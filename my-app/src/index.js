@@ -19,8 +19,8 @@ import Calculator from "./chapter_12/Calculator";
 import WelcomeDialog from "./chapter_13/SignUpDialog";
 import ProfileCard from "./chapter_13/ProfileCard";
 import DarkOrLight from "./chapter_14/DarkOrLight";
-const root = ReactDOM.createRoot(document.getElementById("root"));
 
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<DarkOrLight />);
 
 // If you want to start measuring performance in your app, pass a function
